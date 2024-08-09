@@ -1,7 +1,7 @@
 # Tutorial-Installation-Of-ESP-IDF-VSCode-Extension
  How to Install and Use of the Visual Studio Code ESP-IDF Extension   
   
-<img src="/Images/ESP-IDF.png" height="250" >
+<img src="/Images/ESP-IDF.jpg" height="250" >
   
 **ESP-IDF (Espressif IoT Development Framework)** is the official development framework for programming ESP32, ESP32-S2, ESP32-C3, and other Espressif Systems' microcontroller units (MCUs). It provides a comprehensive set of tools, libraries, and utilities to develop IoT applications on Espressif's hardware.
 
